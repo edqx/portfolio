@@ -45,6 +45,7 @@
             <div class="flex flex-col self-start">
                 <div class="flex flex-col gap-8 sm:gap-16">
                     <div class="flex flex-col">
+                        <!-- TODO: Scroll on mobile to the content -->
                         <span class="text-4xl sm:text-7xl">LANGUAGES</span>
                         <a href="/l/js" class="text-slate-800 text-2xl">JavaScript</a>
                         <a href="/l/cs" class="text-slate-800 text-2xl">C#</a>

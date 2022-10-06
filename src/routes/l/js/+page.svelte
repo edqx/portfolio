@@ -10,7 +10,7 @@
         <br><br>
         I am very proficient in JavaScript, and is easily my best and most comfortable language to work with. I generally write in an object oriented way,
         although I have done and can write functional code when required too. I like to keep up-to-date with the newest features in JavaScript, and try
-        to avoid legacy practices, and I tend to focus slightly more on performance rather than a statistic like readability.
+        to avoid legacy practices, tending to focus slightly more on performance rather than a statistic like readability.
         <br><br>
         I can use JavaScript on the server with <a href="/t/nodejs">Node.JS</a>, as well as <a href="https://deno.land">Deno</a> to a good degree. I also
         use JavaScript on the web, creating highly interactive and responsive UIs; especially with <a href="/t/svelte">Svelte</a>. For example this website and other
