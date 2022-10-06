@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  background-color: #dedcdb;
+  font-family: "Open Sans", sans-serif;
+}
+
+a {
+  color: rgb(30 64 175);
+}
+
+a:hover {
+  text-decoration: underline;
+}
