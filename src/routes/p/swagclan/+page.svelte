@@ -20,5 +20,10 @@
         <br><br>
         All versions of SwagClan had fully interactive and designed web dashboards, which interacted with a public HTTP REST API written
         using <a href="https://expressjs.com">Express</a>.
+        <br><br>
+        <a href="https://github.com/edqx/swagclan">GitHub repo for v5</a><br>
+        <a href="https://github.com/swagclan/swagclan-v4">GitHub repo for v4</a>
+        <br><br>
+        <a href="https://github.com/edqx/maya">GitHub repo for Maya bot</a>
     </p>
 </div>
