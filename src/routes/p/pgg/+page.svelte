@@ -29,7 +29,7 @@
         Unfortunately this too was cut short, as Among Us released an update that would make it too much of a task for me to
         update the client-side code alone to support the new version.
         <br><br>
-        Mouthwash.GG was also one of my best experiences with using a database like <a href="/t/pg">Postgres</a>.
+        Mouthwash.GG was also one of my best experiences with using a database like <a href="https://www.postgresql.org/">Postgres</a>.
         <br><br>
         <a href="https://github.com/edqx/MouthwashGG">GitHub repo</a>
     </p>
