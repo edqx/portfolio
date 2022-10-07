@@ -23,6 +23,7 @@
         <br><br>
 
         <a href="https://skeld.js.org">SkeldJS documentation</a>
+        <br>
         <a href="https://github.com/skeldjs/skeldjs">GitHub monorepo</a>
     </p>
     
@@ -31,13 +32,22 @@
         As a step up from SkeldJS, Hindenburg was built on-top as a modern, extensible game server for Among Us. It intended
         to provide an alternative to <a href="https://github.com/impostor/Impostor">Impostor</a>.
         <br><br>
-        Hindenburg was a good experience for providing direct and active feedback and development for users, where updates were`
-        urgent.
+        Hindenburg was a good experience for providing direct and active feedback and development for users, where updates were
+        urgent. I also had experience building a load balancer and GUI for Hindenburg, allowing me to connect it to other
+        pieces of software, such as <a href="https://redis.io">Redis</a>
         <br><br>
         It powered the <a href="/p/pgg">Mouthwash.GG</a> game server, and many other people's private servers for modding and playing
-        with friends.`
+        with friends.
+        <br><br>
         
         <a href="https://skeldjs.github.io/Hindenburg">Hindenburg documentation</a>
+        <br>
         <a href="https://github.com/skeldjs/hindenburg">GitHub repo</a>
+    </p>
+
+    <h2 class="text-4xl">Pen-testing</h2>
+    <p>
+        SkeldJS has also been, for me, a brief introduction into pen testing and finding security-critical bugs in software. I compiled
+        lists of several crash-related and hack exploits and reported them directly to the lead developer on the Innersloth team.
     </p>
 </div>

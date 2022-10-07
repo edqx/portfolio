@@ -7,7 +7,7 @@
     <h2 class="text-5xl">C++</h2>
     <p>
         I spent over a year working on a mod for the video game CS:GO, which was written in C++. It was almost entirely from
-        Scratch, and gave me great insight and experience into the fundamentals of computer memory and assembly.
+        scratch, and gave me great insight and experience into the fundamentals of computer memory and assembly.
         <br><br>
         I've also written a DLL injector program, now long gone, which allowed me to inject a compiled DLL of
         the mod into a CS:GO running process, which would go undetected by the game's anti-cheat.

@@ -34,7 +34,7 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 auto-rows-auto gap-16 mb-16">
             <span class="text-2xl max-w-xs">Edward Smale</span>
             <span class="text-2xl max-w-xs">Based in <span class="whitespace-nowrap">North-West</span> England</span>
-            <span class="text-2xl max-w-xs">7 Years Experience</span>
+            <span class="text-2xl max-w-xs">7 years experience</span>
             <span class="text-2xl max-w-xs">Currently working on Edith&nbsp;@ <a href="https://midlight.studio" class="text-blue-800 hover:underline">midlight.studio</a></span>
         </div>
         <div class="flex-col flex lg:flex-row gap-8 lg:gap-16 items-center relative w-full">
