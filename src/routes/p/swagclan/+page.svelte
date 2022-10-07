@@ -5,7 +5,7 @@
 <div class="flex flex-col gap-4">
     <span class="text-2xl">Projects</span>
     <h1 class="text-5xl">SwagClan</h1>
-
+    <span class="text-1xl text-slate-600">2019-2020</span>
     <p>
         Along with <a href="/p/ryuujin">Ryuujin</a>, SwagClan was one of my more humble projects, being a small discord bot in a couple
         of servers that I invited it to. While ultimately humble, it did have an ambitious goal and even had a few features that you

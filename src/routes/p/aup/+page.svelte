@@ -5,6 +5,7 @@
 <div class="flex flex-col gap-4">
     <span class="text-2xl">Projects</span>
     <h1 class="text-5xl">AUProximity</h1>
+    <span class="text-1xl text-slate-600">2021-2022</span>
 
     <p>
         AUProximity was a web-based, unintrusive mod for Among Us that allowed for voice communication with allowing for only being able to hear

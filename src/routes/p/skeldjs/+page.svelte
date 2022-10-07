@@ -5,6 +5,7 @@
 <div class="flex flex-col gap-4">
     <span class="text-2xl">Projects</span>
     <h1 class="text-5xl">SkeldJS</h1>
+    <span class="text-1xl text-slate-600">2020-2022</span>
 
     <p>
         SkeldJS was my largest project in terms of scope, and has possibly taught me the most out of any of them. It was a

@@ -5,6 +5,7 @@
 <div class="flex flex-col gap-4">
     <span class="text-2xl">Projects</span>
     <h1 class="text-5xl">Polus.GG</h1>
+    <span class="text-1xl text-slate-600">2021-2021</span>
 
     <p>
         Polus.GG was a very large mod and custom private server for Among Us, and was one of my first work experiences,

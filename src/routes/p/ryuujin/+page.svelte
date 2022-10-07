@@ -5,6 +5,7 @@
 <div class="flex flex-col gap-4">
     <span class="text-2xl">Projects</span>
     <h1 class="text-5xl">Ryuujin</h1>
+    <span class="text-1xl text-slate-600">2020-2021</span>
 
     <p>
         One of my most humble and private projects, Ryuujin was a fully-fledged custom desktop client for the <a href="https://www.teamsatchel.com/products/smhw.html">SMHW</a>
@@ -21,6 +22,6 @@
         <em>just</em> HTML5. The second one is written in Svelte, making it possibly my first real project which used it.
         <br><br>
         <a href="https://github.com/edqx/Ryujin-SMHW">GitHub repo for v1</a><br>
-        <a href="https://github.com/edqx/Ryujin-SMHW-v2">Github repo for v2</a> 
+        <a href="https://github.com/edqx/Ryujin-SMHW-v2">GitHub repo for v2</a> 
     </p>
 </div>
