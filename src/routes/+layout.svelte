@@ -1,4 +1,6 @@
 <script>
+    import "virtual:windi.css";
+
     import { afterNavigate, disableScrollHandling } from "$app/navigation";
     import { onMount } from "svelte";
     import "../app.css";
