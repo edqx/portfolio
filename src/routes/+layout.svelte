@@ -23,8 +23,8 @@
                 <span class="text-2xl">Full-stack developer</span>
             </div>
             <div class="flex flex-col">
-                <span>GITHUB</span>
-                <span>CONTACT</span>
+                <a href="https://github.com/edqx">GITHUB</a>
+                <a href="mailto:edward@midlight.studio">CONTACT</a>
             </div>
         </div>
         <div class="w-full h-32 mt-auto arrows">
