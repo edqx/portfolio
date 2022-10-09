@@ -46,6 +46,18 @@
         <a href="https://github.com/skeldjs/hindenburg">GitHub repo</a>
     </p>
 
+    <h2 class="text-4xl">AU Debugger</h2>
+    <p>
+        AUDebugger was another project related to Among Us that allowed you to debug packets sent between the client and the server. It
+        deconstructed the packet byte-by-byte and provided explanations and values for each relevant part of it.
+        <br><br>
+        It was hosted on <a href="https://vercel.com">Vercel</a>, and used Google's <a href="https://firebase.google.com">Firebase</a>
+        platform to allow users to easy share packets and debugging information.
+        <br><br>
+        <a href="https://amongus-debugger.weakeyes.dev">AUDebugger website</a><br>
+        <a href="https://github.com/edqx/amongus-debugger">GitHub repo</a>
+    </p>
+
     <h2 class="text-4xl">Pen-testing</h2>
     <p>
         SkeldJS has also been, for me, a brief introduction into pen testing and finding security-critical bugs in software. I compiled

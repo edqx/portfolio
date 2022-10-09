@@ -33,6 +33,9 @@
         feels like a native app. It's written in <a href="/l/js">TypeScript</a> and <a href="/t/svelte">Svelte</a>, and built ontop of 
         <a href="https://tauri.app">Tauri</a>. I also used <a href="https://tailwindcss.com">TailwindCSS</a> for the first time.
         <br><br>
+        It also uses <a href="https://supabase.com">Supabase</a> as a partial backend to handle auto-update release bundles and retrieval,
+        using both the storage and the edge functions features.
+        <br><br>
         <img alt="a screenshot showing the Chronicle dashboard" src="/chronicle-screenshot.png">
     </p>
 </div>

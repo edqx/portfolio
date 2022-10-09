@@ -39,7 +39,7 @@
         </div>
         <div class="flex-col flex lg:flex-row gap-8 lg:gap-16 items-center relative w-full">
             <div class="absolute -left-16 hidden items-center gap-2 learn-more sm:flex">
-                <div class="rotate-90">
+                <div class="-rotate-180" style="transform: rotate(var(--tw-rotate));">
                     <Click/>
                 </div>
                 <span>Click to learn more</span>
