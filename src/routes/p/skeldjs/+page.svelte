@@ -54,7 +54,7 @@
         It was hosted on <a href="https://vercel.com">Vercel</a>, and used Google's <a href="https://firebase.google.com">Firebase</a>
         platform to allow users to easy share packets and debugging information.
         <br><br>
-        <a href="https://amongus-debugger.weakeyes.dev">AUDebugger website</a><br>
+        <a href="https://amongus-debugger.vercel.app">AUDebugger website</a><br>
         <a href="https://github.com/edqx/amongus-debugger">GitHub repo</a>
     </p>
 

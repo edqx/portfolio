@@ -19,7 +19,7 @@
     <div class="flex flex-col gap-8 h-full">
         <div class="flex flex-col gap-8">
             <div class="flex flex-col">
-                <span class="text-5xl sm:text-7xl">WEAKEYES</span>
+                <span class="text-5xl sm:text-7xl">Edward Smale</span>
                 <span class="text-2xl">Full-stack developer</span>
             </div>
             <div class="flex flex-col">
@@ -31,44 +31,46 @@
         </div>
     </div>
     <div class="py-32 px-0 sm:px-16 flex flex-col gap-16">
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 auto-rows-auto gap-16 mb-16">
-            <span class="text-2xl max-w-xs">Edward Smale</span>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 auto-rows-auto gap-16 mb-16">
+            <span class="text-2xl max-w-xs">8 years experience</span>
             <span class="text-2xl max-w-xs">Based in <span class="whitespace-nowrap">North-West</span> England</span>
-            <span class="text-2xl max-w-xs">7 years experience</span>
             <span class="text-2xl max-w-xs">Currently working on Edith&nbsp;@ <a href="https://midlight.studio" class="text-blue-800 hover:underline">midlight.studio</a></span>
         </div>
         <div class="flex-col flex lg:flex-row gap-8 lg:gap-16 items-center relative w-full">
-            <div class="absolute -left-16 hidden items-center gap-2 learn-more sm:flex">
-                <div class="-rotate-180" style="transform: rotate(var(--tw-rotate));">
-                    <Click/>
+            <div class="flex items-center self-start">
+                <div class="absolute -left-16 hidden items-center gap-2 learn-more sm:flex">
+                    <div class="-rotate-180" style="transform: rotate(var(--tw-rotate));">
+                        <Click/>
+                    </div>
+                    <span>Click to learn more</span>
                 </div>
-                <span>Click to learn more</span>
-            </div>
-            <div class="flex flex-col self-start">
-                <div class="flex flex-col gap-8 sm:gap-16">
-                    <div class="flex flex-col">
-                        <!-- TODO: Scroll on mobile to the content -->
-                        <span class="text-4xl sm:text-7xl">LANGUAGES</span>
-                        <a href="/l/js" class="text-slate-800 text-2xl">JavaScript</a>
-                        <a href="/l/cs" class="text-slate-800 text-2xl">C#</a>
-                        <a href="/l/cpp" class="text-slate-800 text-2xl">C++</a>
-                    </div>
-                    <div class="flex flex-col">
-                        <span class="text-4xl sm:text-7xl">PRIMARY TOOLS</span>
-                        <a href="/t/nodejs" class="text-slate-800 text-2xl">Node.js</a>
-                        <a href="/t/svelte" class="text-slate-800 text-2xl">Svelte</a>
-                        <a href="/t/mocha" class="text-slate-800 text-2xl">Mocha</a>
-                        <a href="/t/unity" class="text-slate-800 text-2xl">Unity</a>
-                        <a href="/t/git" class="text-slate-800 text-2xl">Git</a>
-                    </div>
-                    <div class="flex flex-col">
-                        <span class="text-4xl sm:text-7xl">PROJECTS</span>
-                        <a href="/p/edith" class="text-slate-800 text-2xl">Edith</a>
-                        <a href="/p/skeldjs" class="text-slate-800 text-2xl">Skeld.JS</a>
-                        <a href="/p/aup" class="text-slate-800 text-2xl">AUProximity</a>
-                        <a href="/p/pgg" class="text-slate-800 text-2xl">Polus.GG</a>
-                        <a href="/p/swagclan" class="text-slate-800 text-2xl">SwagClan</a>
-                        <a href="/p/ryuujin" class="text-slate-800 text-2xl">Ryuujin</a>
+                <div class="flex flex-col">
+                    <div class="flex flex-col gap-8 sm:gap-16">
+                        <div class="flex flex-col">
+                            <!-- TODO: Scroll on mobile to the content -->
+                            <span class="text-4xl sm:text-7xl">LANGUAGES</span>
+                            <a href="/l/js" class="text-slate-800 text-2xl">JavaScript</a>
+                            <a href="/l/cs" class="text-slate-800 text-2xl">C#</a>
+                            <a href="/l/cpp" class="text-slate-800 text-2xl">C++</a>
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="text-4xl sm:text-7xl">PRIMARY TOOLS</span>
+                            <a href="/t/nodejs" class="text-slate-800 text-2xl">Node.js</a>
+                            <a href="/t/svelte" class="text-slate-800 text-2xl">Svelte</a>
+                            <a href="/t/mocha" class="text-slate-800 text-2xl">Mocha</a>
+                            <a href="/t/unity" class="text-slate-800 text-2xl">Unity</a>
+                            <a href="/t/git" class="text-slate-800 text-2xl">Git</a>
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="text-4xl sm:text-7xl">PROJECTS</span>
+                            <a href="/p/edith" class="text-slate-800 text-2xl">Edith</a>
+                            <a href="/p/raincode" class="text-slate-800 text-2xl">Raincode</a>
+                            <a href="/p/skeldjs" class="text-slate-800 text-2xl">Skeld.JS</a>
+                            <a href="/p/aup" class="text-slate-800 text-2xl">AUProximity</a>
+                            <a href="/p/pgg" class="text-slate-800 text-2xl">Polus.GG</a>
+                            <a href="/p/swagclan" class="text-slate-800 text-2xl">SwagClan</a>
+                            <a href="/p/ryuujin" class="text-slate-800 text-2xl">Ryuujin</a>
+                        </div>
                     </div>
                 </div>
             </div>
